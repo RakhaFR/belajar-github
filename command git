@@ -1,3 +1,4 @@
+git init
 git remote add origin https://github.com/Hubbi502/belajar
 git clone https://github.com/Hubbi502/belajar
 git clone https://github.com/Hubbi502/belajar
